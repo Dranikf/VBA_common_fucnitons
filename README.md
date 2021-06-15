@@ -8,6 +8,6 @@ y-data must be first, sort by yourself, select data and start macro
 like this
 
 
-<img src = "https://github.com/Dranikf/Goldfield-Quandt_VBA/blob/main/examples/result.png" height = "800" width = 400>
+<img src = "https://github.com/Dranikf/ecomonetrics_VBA/blob/main/examples/goldfild_example.JPG" height = "800" width = 600>
 
 this example can be founded if examples folder
