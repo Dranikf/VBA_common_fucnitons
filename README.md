@@ -35,3 +35,5 @@ function takes range with target series and lag. For example:
 Computes Ljung–Box statics (https://en.wikipedia.org/wiki/Ljung%E2%80%93Box_test).
 If computing statiscs for lag t, you should give you must pass the autocorrelation coefficients from 1st to tth to the function
 and the size of a sample. For example:
+
+<img src="https://github.com/Dranikf/ecomonetrics_VBA/blob/main/examples/Q%20stats%20funciton.JPG">
