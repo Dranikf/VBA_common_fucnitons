@@ -1,4 +1,4 @@
-# ecomonetrics_VBA
+# VBA_common_functions
 
 Contains functions that relate to the implementation of various formulas and transformations that can improve Excel.
 
